@@ -4,7 +4,7 @@
 
 # Hi, I'm Yan 👋
 
-**Computer Science · Uninter**. Focused on **AI Engineering**: building systems that use LLMs in a measured, safe and useful way.
+**Computer Science · Uninter**. I like building apps I actually use myself, with AI in the middle.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ca%C3%AA-camargo-38b1002a1/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yancamargo988@gmail.com)
@@ -15,19 +15,14 @@
 
 ### [Poker MTT BI](https://github.com/yancamargo988-afk/poker-mtt-bi-showcase/blob/main/README.en.md)
 
-A personal BI I use every day. It has metrics, the team's full finances and a **local-LLM assistant** that answers questions about my numbers in plain Portuguese.
+The app I use every day to track my poker tournaments: dashboards, the team's finances and a local AI assistant (Qwen) that answers my questions, records my withdrawals and warns me when something doesn't add up.
 
-- **The model translates, the code answers:** the LLM produces a structured query (tool calling) and C# computes the result. No number goes through the model.
-- **Model chosen by measurement:** 7 models from 5 vendors, tested on a corpus of real cases.
-- **Safe writes:** deterministic guards and "only a click saves". Today it gets 54/57 entries right, with 0 wrong writes.
-- **Built with AI coding agents:** spec, plan, isolated worktrees and an independent review before every merge. It has 1,800+ tests.
-
-`C#` `.NET 10` `React 19` `TypeScript` `SQLite` `Ollama` · *private code, public showcase*
+`C#` `.NET 10` `React` `TypeScript` `SQLite` `Ollama`
 
 ## Tools
 
 - **Languages:** C#, TypeScript, SQL
-- **AI:** Ollama, local LLMs, tool calling, custom evaluation corpora, coding agents (Claude Code, Gemini)
+- **AI:** Ollama, local LLMs, tool calling, coding agents (Claude Code, Gemini)
 - **Back and front end:** .NET / ASP.NET Core, React, Vite, Tailwind CSS
 - **Data:** SQLite, Google Sheets API
 - **Quality:** xUnit, Vitest, Git with worktrees
