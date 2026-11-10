@@ -19,10 +19,10 @@ The app I use every day to track my poker tournaments: dashboards, the team's fi
 
 `C#` `.NET 10` `React` `TypeScript` `SQLite` `Ollama`
 
-## Tools
+## How I build
 
-- **Languages:** C#, TypeScript, SQL
-- **AI:** Ollama, local LLMs, tool calling, coding agents (Claude Code, Gemini)
-- **Back and front end:** .NET / ASP.NET Core, React, Vite, Tailwind CSS
-- **Data:** SQLite, Google Sheets API
-- **Quality:** xUnit, Vitest, Git with worktrees
+I build by orchestrating AI agents, *vibe coding* style. I define what the system must do and its rules, split the work into tasks, ask the agents for the code, check what they deliver and test it in real use.
+
+- **Coding agents:** Claude Code and Gemini
+- **AI inside the app:** local LLMs with Ollama
+- **From my courses:** basics of Java, networking and cloud (AWS)

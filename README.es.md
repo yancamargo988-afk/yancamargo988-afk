@@ -19,10 +19,10 @@ La app que uso todos los días para seguir mis torneos de póker: paneles, las f
 
 `C#` `.NET 10` `React` `TypeScript` `SQLite` `Ollama`
 
-## Herramientas
+## Cómo construyo
 
-- **Lenguajes:** C#, TypeScript, SQL
-- **IA:** Ollama, LLMs locales, tool calling, agentes de código (Claude Code, Gemini)
-- **Back y front:** .NET / ASP.NET Core, React, Vite, Tailwind CSS
-- **Datos:** SQLite, Google Sheets API
-- **Calidad:** xUnit, Vitest, Git con worktrees
+Construyo orquestando agentes de IA, al estilo *vibe coding*. Defino lo que el sistema tiene que hacer y sus reglas, divido el trabajo en tareas, les pido el código a los agentes, reviso lo que entregan y lo pruebo en el uso real.
+
+- **Agentes de código:** Claude Code y Gemini
+- **IA dentro de la app:** LLMs locales con Ollama
+- **De mis cursos:** nociones de Java, redes y nube (AWS)
