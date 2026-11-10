@@ -4,10 +4,10 @@
 
 # Hi, I'm Yan 👋
 
-**Computer Science** student ([UNIVERSITY], [SEMESTER]) focused on **AI Engineering**: building systems that use LLMs in a measured, safe and useful way.
+**Computer Science · Uninter**. Focused on **AI Engineering**: building systems that use LLMs in a measured, safe and useful way.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([LINKEDIN URL])
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](mailto:[YOUR E-MAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-ca%C3%AA-camargo-38b1002a1/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?logo=gmail&logoColor=white)](mailto:yancamargo988@gmail.com)
 
 </div>
 
