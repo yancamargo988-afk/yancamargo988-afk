@@ -26,8 +26,8 @@ BI personal que uso todos los días. Tiene métricas, las finanzas completas del
 
 ## Herramientas
 
-**Lenguajes:** C#, TypeScript, SQL
-**IA:** Ollama, LLMs locales, tool calling, corpus de evaluación propios, agentes de código (Claude Code, Gemini)
-**Back y front:** .NET / ASP.NET Core, React, Vite, Tailwind CSS
-**Datos:** SQLite, Google Sheets API
-**Calidad:** xUnit, Vitest, Git con worktrees
+- **Lenguajes:** C#, TypeScript, SQL
+- **IA:** Ollama, LLMs locales, tool calling, corpus de evaluación propios, agentes de código (Claude Code, Gemini)
+- **Back y front:** .NET / ASP.NET Core, React, Vite, Tailwind CSS
+- **Datos:** SQLite, Google Sheets API
+- **Calidad:** xUnit, Vitest, Git con worktrees
